@@ -1,0 +1,25 @@
+.p-megamenu {
+  background-color: #7b7be1 !important;
+  color: #fff !important;
+}
+
+.p-megamenu .p-megamenu-button {
+  color: #fff;
+}
+
+.p-megamenu .p-megamenu-root-list .p-menuitem .p-menuitem-text {
+  color: #fff !important;
+}
+
+.p-megamenu .p-megamenu-root-list .p-menuitem .p-menuitem-icon {
+  color: #fff !important;
+}
+
+
+.p-menuitem-link {
+  background-color: #7b7be1 !important;
+}
+
+.p-menuitem-link:hover {
+  background-color: rgb(13, 13, 14);
+}
